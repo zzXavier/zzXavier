@@ -1,6 +1,6 @@
 # Hi, I'm Xavier Zhang 👋
 
-I'm an undergraduate student at **Beijing Normal-Hong Kong Baptist University (BNBU)**, working on **Computer Vision** and **Generative Models**.
+I'm an undergraduate student at **Beijing Normal-Hong Kong Baptist University (BNBU)**, with research interests in **Computer Vision and Generative Models**.
 
 My current research focuses on **one-step image editing**.
 
@@ -9,13 +9,12 @@ My current research focuses on **one-step image editing**.
 - Computer Vision
 - Generative Models
 - Image Generation & Editing
-- Efficient Vision Models
 
 ## 📝 Research
 
 ### MFilter: Pair-Conditioned Keypoint Matchability for Lightweight Sparse Matching
 
-**Co-first Author** · ACCV 2026 (Asian Conference on Computer Vision)
+**Co-first Author** · ACCV 2026 · Accepted
 
 Xinpeng Zhu†, Zhixiong Zhang†, Wentao Cheng — †equal contribution
 
